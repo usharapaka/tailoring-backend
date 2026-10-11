@@ -132,6 +132,3 @@ Anurag University
 
 GitHub: https://github.com/usharapaka
 
-## 📄 License
-
-Developed for educational and project purposes.
